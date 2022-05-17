@@ -10,5 +10,11 @@ Install with 1 command!
 sudo curl -fsSL https://github.com/Devematrix/HelloGreet/raw/main/install_verson_3.3 | bash
 ```
 
+### 1 Command (WGET)
+Install with 1 command (wget)
+```bash
+sudo wget -q0- https://github.com/Devematrix/HelloGreet/raw/main/install_verson_3.3 | bash
+```
+
 ### Manual Install (Unavailable)
 We're still working on this!
