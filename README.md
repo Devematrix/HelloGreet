@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/Devematrix/HelloGreet/blob/main/logo-alt.png?raw=true" height="120">
+ <img src="https://github.com/Devematrix/HelloGreet/blob/main/logo-alt.png?raw=true" height="150">
   The simplest package to say hello!
 </p>
 
