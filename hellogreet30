@@ -1,1 +1,2 @@
-
+name=$1
+echo "hello ther  $1, good to see you again"
